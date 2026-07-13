@@ -48,6 +48,12 @@ You can set up the environment using either standard pip or via conda
     cd /path/to/Pi-UVMorphe
     pip install -r requirements.txt
 
+## Important: Download the Model File
+
+The model weight file (best_model.pth) is stored using Git LFS and may not download automatically when cloning the repository.
+
+Please Go to the Releases page and download best_model.pth, then place it in the project root directory.
+
 # Quick Start
 
 ## Input
