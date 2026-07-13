@@ -40,11 +40,11 @@ __Overview of π-UVMorphe architecture__. Raw mzML files and peptide lists are p
 
 You can set up the environment using either standard pip or via conda
 
-## Create a dedicated environment with the specific Python version
+### Create a dedicated environment with the specific Python version
     conda create -n Pi-UVMorphe python=3.10.19 -y
     conda activate Pi-UVMorphe
 
-## Navigate to your local project directory and install requirements
+### Navigate to your local project directory and install requirements
     cd /path/to/Pi-UVMorphe
     pip install -r requirements.txt
 
