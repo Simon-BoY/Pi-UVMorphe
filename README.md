@@ -72,7 +72,7 @@ To utilize the model, you need to prepare the following inputs:
 2. Biological Sequence & Metadata:
     Protein Sequence (-s / --sequence)
     Format: Plain text string (Capitalized single-letter amino acid codes, e.g., "SHHWGYG...")
-    Description: The target FASTA-like amino acid sequence of the protein being analyzed. The algorithm uses this sequence as the template to generate theoretical internal and terminal fragments for matching.
+    Description: The target amino acid sequence of the protein being analyzed. The algorithm uses this sequence as the template to generate theoretical internal and terminal fragments for matching.
     
     Modification Type (-mod / --modification)
     Format: String selection (Optional)
@@ -86,7 +86,7 @@ To utilize the model, you need to prepare the following inputs:
     
     Model Weights (--model)
     Format: .pth (Default: best_model.pth)
-    Description: The pre-trained PyTorch model checkpoint containing the optimized weights of the DeepUVModel neural network architecture.
+    Description: The pre-trained PyTorch model checkpoint containing the optimized weights of the Pi-UVMorphe neural network architecture.
     
     PPM Tolerance (--ppm)
     Format: Integer (Default: 5)
