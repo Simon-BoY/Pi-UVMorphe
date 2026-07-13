@@ -8,7 +8,7 @@ Pi-UVMorphe (UltraViolet-specific Multimodal Optimized Reliability Prediction fo
 <img width="7019" height="4828" alt="932469b91c1b082f27d8f6318fce2fd9" src="https://github.com/Simon-BoY/Pi-UVMorphe/blob/main/resources/Img.png" />
 </div>
 
-__Overview of Pi-UVMorphe architecture__. Raw mzML files and peptide lists are preprocessed via peak deconvolution to extract tabular features and isotope envelope images. The π-UVMorphe model processes the inputs through dual branches: the tabular branch utilizes an MLP for feature extraction, while the image branch employs a Vision Transformer (ViT) to encode isotope patterns; both features are then concatenated for classification to output conserved fragment labels. The downstream application utilizes the fragment identification results to generate sequence cleavage plots and calculate Internal Reliability Scores (IRS) for quality visualization.
+__Overview of π-UVMorphe architecture__. Raw mzML files and peptide lists are preprocessed via peak deconvolution to extract tabular features and isotope envelope images. The π-UVMorphe model processes the inputs through dual branches: the tabular branch utilizes an MLP for feature extraction, while the image branch employs a Vision Transformer (ViT) to encode isotope patterns; both features are then concatenated for classification to output conserved fragment labels. The downstream application utilizes the fragment identification results to generate sequence cleavage plots and calculate Internal Reliability Scores (IRS) for quality visualization.
 
 # Requirement
 
@@ -104,7 +104,7 @@ If you prefer a visual, point-and-click environment to upload files, configure p
 <img width="7019" height="4828" alt="932469b91c1b082f27d8f6318fce2fd9" src="https://github.com/Simon-BoY/Pi-UVMorphe/blob/main/resources/GUI.png" />
 </div>
 
-__The graphical user interface (GUI) of the π-UVMorphe software__.  (a) Analysis settings panel. Users can input .msalign and spectrum0.js files, protein sequences, and set modifications and PPM tolerance. Real-time processing logs are displayed below. (b) Results overview panel. Displays a global statistics summary (e.g., matches, coverage) and a detailed table of matched fragments, including fragment types, theoretical/observed masses, intensities, charges, and m/z values.
+__The graphical user interface (GUI) of the π-UVMorphe GUI__.  (a) Analysis settings panel. Users can input .msalign and spectrum0.js files, protein sequences, and set modifications and PPM tolerance. Real-time processing logs are displayed below. (b) Results overview panel. Displays a global statistics summary (e.g., matches, coverage) and a detailed table of matched fragments, including fragment types, theoretical/observed masses, intensities, charges, and m/z values.
 
 ## Contact
 
