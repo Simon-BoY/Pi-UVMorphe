@@ -97,7 +97,7 @@ You can launch the complete pipeline with a single command. To test your install
 ## Option B: Run Pi-UVMorphe GUI
 
 If you prefer a visual, point-and-click environment to upload files, configure parameters, and visualize sequence cleavage plots, launch the GUI dashboard by running:
-    python run_gui.py
+        python run_gui.py
 
 <div align=center>
 <img width="7019" height="4828" alt="932469b91c1b082f27d8f6318fce2fd9" src="https://github.com/Simon-BoY/Pi-UVMorphe/blob/main/resources/GUI.png" />
