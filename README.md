@@ -110,7 +110,7 @@ If you prefer a visual, point-and-click environment to upload files, configure p
 <img width="7019" height="4828" alt="932469b91c1b082f27d8f6318fce2fd9" src="https://github.com/Simon-BoY/Pi-UVMorphe/blob/main/resources/GUI.png" />
 </div>
 
-__The graphical user interface (GUI) of the π-UVMorphe GUI__.  (a) Analysis settings panel. Users can input .msalign and spectrum0.js files, protein sequences, and set modifications and PPM tolerance. Real-time processing logs are displayed below. (b) Results overview panel. Displays a global statistics summary (e.g., matches, coverage) and a detailed table of matched fragments, including fragment types, theoretical/observed masses, intensities, charges, and m/z values.
+__The graphical user interface (GUI) of the π-UVMorphe__.  (a) Analysis settings panel. Users can input .msalign and spectrum0.js files, protein sequences, and set modifications and PPM tolerance. Real-time processing logs are displayed below. (b) Results overview panel. Displays a global statistics summary (e.g., matches, coverage) and a detailed table of matched fragments, including fragment types, theoretical/observed masses, intensities, charges, and m/z values.
 
 ## Contact
 
