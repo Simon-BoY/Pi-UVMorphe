@@ -1,6 +1,6 @@
 # Pi-UVMorphe
 
-Pi-UVMorphe (UltraViolet-specific Multimodal Optimized Reliability Prediction for Hybrid Envelope fragments) is a dual-branch deep learning framework designed for accurate and reliable fragment ion identification in UVPD top-down proteomics. Developer is Bo Yao from State Key Laboratory of Medical Proteomics, Beijing Proteome Research Center, National Center for Protein Sciences (Beijing), Beijing Institute of Lifeomics, Beijing 102206, China.
+Pi-UVMorphe (UltraViolet-specific Multimodal Optimized Reliability Prediction for Hybrid Envelope fragments) is a dual-branch deep learning framework designed for accurate and reliable fragment ion identification in UVPD top-down proteomics. Developer is Bo Yao from State Key Laboratory of Medical Proteomics, National Center for Protein Sciences (Beijing).
 
 # Overview of Pi-UVMorphe
 
